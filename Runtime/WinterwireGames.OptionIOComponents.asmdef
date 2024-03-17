@@ -1,0 +1,14 @@
+{
+    "name": "WinterwireGames.OptionIOComponents",
+    "rootNamespace": "WinterwireGames.OptionIOComponents",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

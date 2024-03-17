@@ -1,0 +1,11 @@
+{
+  "name": "com.winterwiregames.option-io-components",
+  "version": "0.1.0",
+  "description": "A collection of extendable components designed to make interfacing with `PlayerPrefs` easier and more visible.",
+  "displayName": "Option IO Components",
+  "author": {
+    "name": "Winterwire Games",
+    "email": "contact@winterwiregames.com",
+    "url": "https://www.winterwiregames.com"
+  }
+}
